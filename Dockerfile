@@ -1,4 +1,4 @@
-FROM node:8.11.2
+FROM node:10.17.0
 LABEL maintainer="kurosame"
 
 # For Puppeteer
